@@ -1,4 +1,14 @@
-# 🦋 Flutter Learning Lab
+<p>
+  <div style="display:flex; gap:1rem;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=flutter" />
+    </a>
+    <h1>Flutter Learning Lab</h1>
+  </div>
+</p>
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 Personal repository for learning **Dart + Flutter** through practice and scripts.
 
