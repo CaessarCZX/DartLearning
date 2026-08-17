@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:hello_world_app/presentation/screens/counter/counter_screen.dart';
 
 /// Main function is the root of the app
 void main() {
@@ -17,12 +18,14 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     // Material App is a reusable widget class with atrributes or methods 
     // of 'Material Design UI'     
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
-      // Scaffold is the common layout in most applications includes: appbar, wrap menu, etc.
-      home: Scaffold(
-        body: Center(child: Text('Hello world')),
+      theme:ThemeData(
+        useMaterial3: true,
+        colorSchemeSeed: Colors.blue
       ),
-    );
+      // Scaffold is the common layout in most applications includes: appbar, wrap menu, etc.
+      home: CounterScreen(),
+      );
   }
 }
