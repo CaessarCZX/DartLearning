@@ -54,25 +54,25 @@ Personal repository for learning **Dart + Flutter** through practice and scripts
 - [x] `StatefulWidget`
 - [x] `BuildContext`
 - [ ] Constraints Model
-- [ ] `Row`
-- [ ] `Column`
+- [x] `Row`
+- [x] `Column`
 - [ ] `Expanded`
 - [ ] `Flexible`
 - [ ] `Stack`
 - [ ] `Positioned`
 - [ ] `Padding`
-- [ ] `SizedBox`
+- [x] `SizedBox`
 - [ ] `Container`
 - [ ] `Align`
-- [ ] `Center`
+- [x] `Center`
 - [ ] `ListView`
 - [ ] `GridView`
 - [ ] Forms
 - [ ] Inputs
 - [ ] `TextEditingController`
 - [ ] Navigation
-- [ ] State: `setState`
-- [ ] Themes
+- [x] State: `setState`
+- [x] Themes
 - [ ] Responsive UI
 - [ ] Handle of APIs
 - [ ] JSON / Models
@@ -85,7 +85,7 @@ Personal repository for learning **Dart + Flutter** through practice and scripts
 
 ---
 
-# 🦋 Dart
+# Dart
 
 Dart is the languaje used for Flutter
 
